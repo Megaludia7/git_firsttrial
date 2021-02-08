@@ -3,5 +3,5 @@ before
 }
 
 test2{
-before
+これでremoteブランチtest2が更新される
 }
