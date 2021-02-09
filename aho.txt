@@ -1,7 +1,8 @@
 test1{
-before
+fetchしてmerge origin/masterした
 }
 
 test2{
 これでremoteブランチtest2が更新されるはず
+before
 }
